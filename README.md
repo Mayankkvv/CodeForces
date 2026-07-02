@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 54 | 14 |
+| 55 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (5)
-- [brute force](#brute-force) (12)
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (13)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (13)
 - [dp](#dp) (1)
@@ -39,6 +40,12 @@
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
 | 2241D | [An Alternative Way](https://codeforces.com/contest/2241/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/2241/D%20-%20An%20Alternative%20Way/solution.cpp) |
 
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
+
 ### brute force
 
 | # | Problem | Difficulty | Solution |
@@ -47,6 +54,7 @@
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.cpp) |
+| 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
