@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 55 | 15 |
+| 56 | 15 |
 
 ---
 
@@ -14,14 +14,14 @@
 
 - [Uncategorized](#uncategorized) (5)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (13)
+- [brute force](#brute-force) (14)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (13)
 - [dp](#dp) (1)
 - [games](#games) (2)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (17)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [math](#math) (30)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (4)
@@ -58,6 +58,7 @@
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 2094B | [Bobritto Bandito](https://codeforces.com/contest/2094/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/2094/B%20-%20Bobritto%20Bandito/solution.cpp) |
 | 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
 | 2143A | [All Lengths Subtraction](https://codeforces.com/contest/2143/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/2143/A%20-%20All%20Lengths%20Subtraction/solution.cpp) |
@@ -141,6 +142,7 @@
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
 | 2134A | [Painting With Two Colors](https://codeforces.com/contest/2134/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/2134/A%20-%20Painting%20With%20Two%20Colors/solution.cpp) |
 
