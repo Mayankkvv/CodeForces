@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 56 | 15 |
+| 57 | 15 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [math](#math) (30)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (4)
-- [strings](#strings) (5)
+- [strings](#strings) (6)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -205,6 +205,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
+| 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1883/B%20-%20Chemistry/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 2094A | [Trippi Troppi](https://codeforces.com/contest/2094/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/2094/A%20-%20Trippi%20Troppi/solution.cpp) |
 | 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
