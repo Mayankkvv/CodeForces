@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 64 | 15 |
+| 65 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (6)
+- [Uncategorized](#uncategorized) (7)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (17)
 - [combinatorics](#combinatorics) (2)
@@ -40,6 +40,7 @@
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
 | 2241D | [An Alternative Way](https://codeforces.com/contest/2241/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/2241/D%20-%20An%20Alternative%20Way/solution.cpp) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
+| 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
 
 ### bitmasks
 
