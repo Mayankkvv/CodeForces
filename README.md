@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 70 | 16 |
+| 71 | 16 |
 
 ---
 
@@ -21,9 +21,9 @@
 - [dp](#dp) (1)
 - [games](#games) (3)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (22)
+- [greedy](#greedy) (23)
 - [implementation](#implementation) (13)
-- [math](#math) (35)
+- [math](#math) (36)
 - [number theory](#number-theory) (7)
 - [sortings](#sortings) (5)
 - [strings](#strings) (6)
@@ -128,6 +128,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
@@ -174,6 +175,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
+| 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
