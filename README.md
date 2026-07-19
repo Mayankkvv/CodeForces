@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 91 | 16 |
+| 92 | 16 |
 
 ---
 
@@ -21,10 +21,10 @@
 - [dp](#dp) (1)
 - [games](#games) (3)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (31)
+- [greedy](#greedy) (32)
 - [implementation](#implementation) (15)
-- [math](#math) (44)
-- [number theory](#number-theory) (10)
+- [math](#math) (45)
+- [number theory](#number-theory) (11)
 - [sortings](#sortings) (6)
 - [strings](#strings) (7)
 - [two pointers](#two-pointers) (2)
@@ -144,6 +144,7 @@
 | 1440B | [Sum of Medians](https://codeforces.com/contest/1440/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1440/B%20-%20Sum%20of%20Medians/solution.cpp) |
 | 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.cpp) |
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
+| 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
 | 1666D | [Deletive Editing](https://codeforces.com/contest/1666/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1666/D%20-%20Deletive%20Editing/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
@@ -202,6 +203,7 @@
 | 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
+| 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
 | 1607B | [Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1607/B%20-%20Odd%20Grasshopper/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
@@ -248,6 +250,7 @@
 |---|---------|------------|----------|
 | 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
+| 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.cpp) |
 | 1828B | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mayankkvv/CodeForces/blob/HEAD/1828/B%20-%20Permutation%20Swap/solution.cpp) |
